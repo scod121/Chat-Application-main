@@ -41,4 +41,4 @@ There are four visual modules to be displayed on the screen. Each module display
 - A module to compose and post messages.
 Additionally, there is a droplist / menu for selecting the current user.
 
-Divyansh Bhatia
+Sanjay Chouhan
