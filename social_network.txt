@@ -1,0 +1,17 @@
+#users
+<esha: eren, mikasa, armin, lelouch, yagami, L, hinata, kageyama, tanaka, bokuto>
+<eren: mikasa, armin>
+<mikasa: eren, armin>
+<armin: mikasa, eren>
+<lelouch: yagami, L>
+<yagami: lelouch, L>
+<L: lelouch, yagami>
+<hinata: kageyama, tanaka, bokuto>
+<kageyama: hinata, tanaka, bokuto>
+<tanaka: hinata, kageyama, bokuto>
+<bokuto: hinata, kageyama, tanaka>
+<itachi: naruto, eren>
+#groups
+<Attack_on_Titan: eren, mikasa, armin>
+<Geniuses: lelouch, yagami, L, esha>
+<Haikyuu: hinata, kageyama, tanaka, bokuto>
